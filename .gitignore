@@ -1,2 +1,20 @@
+<<<<<<< HEAD
 .sass-cache/
 _site/
+=======
+#maven
+target/
+
+#eclipse
+.classpath
+.project
+.settings/
+
+#DS_Store
+.DS_Store
+
+#intellij
+.idea/
+*.iml
+*.iws
+>>>>>>> refs/remotes/apache/master
